@@ -1,13 +1,15 @@
-# Une calculatrice simple en PHP [projet universitaire]  
+# A simple calculator in PHP [university project]   
 
-TP n°1 de l'UE [LIFRW : Introduction aux Réseaux et au Web](http://perso.univ-lyon1.fr/olivier.gluck/supports_enseig.html#LIFRW) réalisé lors de ma première année de prépa intégrée à [Polytech Lyon](https://polytech.univ-lyon1.fr/)
+🇫🇷 Pour la version française, [c'est par ici](README_fr.md)
 
-## Objectif
+Practical work n°1 of the [LIFRW : Introduction to Networks and Web](http://perso.univ-lyon1.fr/olivier.gluck/supports_enseig.html#LIFRW) course unit done during my first year of preparatory class at [Polytech Lyon](https://polytech.univ-lyon1.fr/english-version)
 
-Réaliser une calculatrice toute simple en PHP, avec les opérations de base (addition, soustraction, multiplication, division) et une interface graphique en HTML/CSS. Le but était de se familiariser avec le langage PHP et le passage de données d'un formulaire HTML.
+## Goal  
 
-## Résultat    
+Make a simple calculator in PHP, with basic operations (addition, subtraction, multiplication, division) and a graphical interface in HTML/CSS. The goal was to understand the PHP language and the transfer of data from an HTML form.
 
-<img src="calculatrice.png" alt="Aperçu de la calculatrice" width="500"/>
+## Result    
 
-Une copie du projet est hébergée [ici](https://projects.milobrt.fr/calculatrice)
+<img src="calculatrice.png" alt="Calculator preview" width="500"/>
+
+A copy of the project is hosted [here](https://projects.milobrt.fr/calculatrice)
